@@ -16,10 +16,10 @@ Actualment estic aprenent Git i Markdown.
 | [Projecte Pac-Man](https://github.com/agarciah-hash/pacman-git..git) | Projecte de git sobre el joc de Pac-Man. |
 
 ## Estadistiques de Github
-![Estadístiques de GitHub d'agarciah](https://github-readme-stats.vercel.app/api?username=agarciah-hash&show_icons=true)
+![Estadístiques de GitHub d'agarciah](https://github-stats-extended.vercel.app/api?username=agarciah-hash&show_icons=true&theme=radial)
 
 ##  Contacte
-- 📧 Correu: [agarciah@insjoaquimmir.cat](mailto:agarciah@insjoaquimmir.cat)
+- Correu: [agarciah@insjoaquimmir.cat](mailto:agarciah@insjoaquimmir.cat)
 
 
 
