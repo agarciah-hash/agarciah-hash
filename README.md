@@ -1,18 +1,21 @@
-## Hi there 👋
+# Hola, sóc l'Airald 
 
-<!--
-**agarciah-hash/agarciah-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sóc estudiant de **Desenvolupament d'Aplicacions Web (DAW)** a [l'institut joaquim Mir].
+M'interessa el desenvolupament front-end i la creació de videojocs.
+Actualment estic aprenent Git i Markdown.
 
-Here are some ideas to get you started:
+##  Tecnologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Llenguatges:** JavaScript, SQL, Python
+- **Eines:** Git, GitHub, VS Code
 
-Soy un payo 
+##  Projectes destacats
+
+| Projecte | Descripció |
+|----------|------------|
+| [Projecte Pac-Man](https://github.com/agarciah-hash/pacman-git..git) | Projecte de git sobre el joc de Pac-Man. |
+| [Projecte de botiga Online](https://github.com/jmirinformatica-classroom50/daw-1b-tallers-bootstrap-agarciah-hash.git) | Projecte de boostrap per fer una botiga online. |
+
+##  Contacte
+
+- 📧 Correu: [agarciah@insjoaquimmir.cat](mailto:agarciah@insjoaquimmir.cat)
