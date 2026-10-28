@@ -14,8 +14,12 @@ Actualment estic aprenent Git i Markdown.
 | Projecte | Descripció |
 |----------|------------|
 | [Projecte Pac-Man](https://github.com/agarciah-hash/pacman-git..git) | Projecte de git sobre el joc de Pac-Man. |
-| [Projecte de botiga Online](https://github.com/jmirinformatica-classroom50/daw-1b-tallers-bootstrap-agarciah-hash.git) | Projecte de boostrap per fer una botiga online. |
+
+## Estadistiques de Github
+![Estadístiques de GitHub d'agarciah](https://github-readme-stats.vercel.app/api?username=agarciah-hash&show_icons=true)
 
 ##  Contacte
-
 - 📧 Correu: [agarciah@insjoaquimmir.cat](mailto:agarciah@insjoaquimmir.cat)
+
+
+
